@@ -1,12 +1,9 @@
 Package: procia
-Version: 1.3.23
+Version: 1.3.28
 Architecture: amd64
-Maintainer: Procia <release@procia.dev>
-Installed-Size: 56592
-Filename: pool/main/p/procia/procia_1.3.23_amd64.deb
-Size: 57949408
-MD5sum: 783d8f25cd44ba7f775e0013d2fb6996
-SHA1: 01836cb6439359401fe8c7589c9dc630772e45ab
-SHA256: e4b01f9d714b989f93a48252e7f05f0a4440d5141544d0584f8778b48e52f072
-Description: Procia - TypeScript development platform
- Scaffolding, MCP server, Pulumi agent and CI/CD integration.
+Maintainer: Procia Team <support@procia.io>
+Description: Procia platform
+Filename: https://github.com/adi-los/procia-packages/releases/download/v1.3.28/procia_1.3.28_amd64.deb
+Size: 58387572
+SHA256: a21515c61a3e5c88ad477b926a5fa4fb7382ed875221dd285637a08d0431ad4e
+
