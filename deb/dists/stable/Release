@@ -2,16 +2,7 @@ Origin: Procia
 Label: Procia
 Suite: stable
 Codename: stable
-Date: Tue, 14 Apr 2026 14:27:18 UTC
 Architectures: amd64
 Components: main
-Description: Procia packages repository
-MD5Sum:
- 25af1bb44daef74fd511b8d820249d4c 459 main/binary-amd64/Packages
- 754fb899b30dab7ea7fe127e81320643 353 main/binary-amd64/Packages.gz
-SHA1:
- 15ffd837402016bf943b38d7e8cdc88e5902af03 459 main/binary-amd64/Packages
- 39d3a738ff4d8bcce26d531ac190cd32c21628dc 353 main/binary-amd64/Packages.gz
 SHA256:
- 59b0116bd2d4c71d7f3d4916487355f37f4709c96e2a12b37e191a9dd05bf0ec 459 main/binary-amd64/Packages
- 384beb0f7019c65d43646248987db1f20962cf0664013c7caa30fa62e13e08b4 353 main/binary-amd64/Packages.gz
+ 625b8950a2f9ad5d6b0ad4d52bc9bcc6205a924a770992cbec46a3d4f50b7a51 317 main/binary-amd64/Packages
