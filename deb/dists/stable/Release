@@ -4,5 +4,7 @@ Suite: stable
 Codename: stable
 Architectures: amd64
 Components: main
+MD5Sum:
+ 00000000000000000000000000000000 254 main/binary-amd64/Packages.gz
 SHA256:
- e9fc246f8f9a1ed4a772b08b8e9fc563e2ef4a39f3aba5fbe4085c7c0f66382b 317 main/binary-amd64/Packages
+ be73d7c1d2e991f5e5dd3c5f5a4dca175333beed58fc108c00e0047842dc793e 317 main/binary-amd64/Packages
