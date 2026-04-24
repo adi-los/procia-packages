@@ -4,6 +4,6 @@ Architecture: amd64
 Maintainer: Procia Team <support@procia.io>
 Description: Procia platform
 Filename: https://github.com/adi-los/procia-packages/releases/download/v1.3.37/procia_1.3.37_amd64.deb
-Size: 60685618
-SHA256: 6d3646453a387f4ebadada2ee0df19a595c0aa6b5e4afc31080eb777c54e8a3a
+Size: 60772248
+SHA256: 9d39fe66140c58af30aca20d4577d0641c78e6954542897d2730b79f404ea775
 
