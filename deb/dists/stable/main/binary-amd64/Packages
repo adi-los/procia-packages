@@ -1,9 +1,9 @@
 Package: procia
-Version: 1.3.92
+Version: 1.3.93
 Architecture: amd64
 Maintainer: Procia Team <support@procia.io>
 Description: Procia platform
-Filename: https://github.com/adi-los/procia-packages/releases/download/v1.3.92/procia_1.3.92_amd64.deb
-Size: 62535118
-SHA256: 6100baddb15fe778f57381a8ce15807c13d9e9f91bfc1fbf270af117c46336d6
+Filename: https://github.com/adi-los/procia-packages/releases/download/v1.3.93/procia_1.3.93_amd64.deb
+Size: 62535616
+SHA256: 564cf2870a213f4bfab036429a9973d164ae2fd3249b9f8aa46787b77bc6c18d
 
